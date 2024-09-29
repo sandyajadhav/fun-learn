@@ -1,0 +1,10 @@
+edu/funlearn/repository/UserRepository.class
+edu/funlearn/dto/Student.class
+edu/funlearn/dto/User.class
+edu/funlearn/FunLearnApplication.class
+edu/funlearn/service/UserService.class
+edu/funlearn/controller/StudentController.class
+edu/funlearn/controller/UserController.class
+edu/funlearn/repository/StudentRepository.class
+edu/funlearn/service/StudentService.class
+edu/funlearn/dto/LoginRequest.class

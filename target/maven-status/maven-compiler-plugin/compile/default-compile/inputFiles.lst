@@ -1,0 +1,12 @@
+/Users/sjadhav/ws/fun-learn/src/main/java/edu/funlearn/DataInitializer.java
+/Users/sjadhav/ws/fun-learn/src/main/java/edu/funlearn/FunLearnApplication.java
+/Users/sjadhav/ws/fun-learn/src/main/java/edu/funlearn/config/AppConfig.java
+/Users/sjadhav/ws/fun-learn/src/main/java/edu/funlearn/controller/StudentController.java
+/Users/sjadhav/ws/fun-learn/src/main/java/edu/funlearn/controller/UserController.java
+/Users/sjadhav/ws/fun-learn/src/main/java/edu/funlearn/dto/LoginRequest.java
+/Users/sjadhav/ws/fun-learn/src/main/java/edu/funlearn/dto/Student.java
+/Users/sjadhav/ws/fun-learn/src/main/java/edu/funlearn/dto/User.java
+/Users/sjadhav/ws/fun-learn/src/main/java/edu/funlearn/repository/StudentRepository.java
+/Users/sjadhav/ws/fun-learn/src/main/java/edu/funlearn/repository/UserRepository.java
+/Users/sjadhav/ws/fun-learn/src/main/java/edu/funlearn/service/StudentService.java
+/Users/sjadhav/ws/fun-learn/src/main/java/edu/funlearn/service/UserService.java
