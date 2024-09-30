@@ -6,6 +6,7 @@ import jakarta.persistence.GenerationType;
 import lombok.Data;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.relational.core.mapping.Table;
+import org.springframework.data.relational.core.mapping.Column;
 
 import java.util.List;
 import java.util.Map;
@@ -16,15 +17,13 @@ public class Student {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)  // Automatically generate ID
     private Long id;
-    private String name;
-    private String email;
 
-    @ElementCollection
-    private List<Long> enrolledClassIds;
+    @Column("firstname")
+    private String firstName;
 
-    // Map of classId to grade
-    @ElementCollection
-    private Map<Long, String> grades;
+    @Column("lastname")
+    private String lastName;
+
 }
 
 
